@@ -1,3 +1,5 @@
+package Week1;
+
 public class Quadratic {
     public static void main(String[] args) {
         //Parse coefficents from command line

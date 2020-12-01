@@ -1,3 +1,5 @@
+package Week1;
+
 public class CMYKtoRGB {
     public static void main(String[] args) {
         double C = Double.parseDouble(args[0]);

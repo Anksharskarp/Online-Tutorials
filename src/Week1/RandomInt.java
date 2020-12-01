@@ -1,3 +1,5 @@
+package Week1;
+
 public class RandomInt {
     public static void main(String[] args) {
         int N = Integer.parseInt(args[0]);

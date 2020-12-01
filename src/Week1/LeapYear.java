@@ -1,3 +1,5 @@
+package Week1;
+
 public class LeapYear {
     public static void main(String[] args) {
         int year = Integer.parseInt(args[0]);
