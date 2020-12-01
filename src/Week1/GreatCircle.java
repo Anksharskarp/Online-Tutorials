@@ -1,7 +1,5 @@
 package Week1;
 
-import java.lang.Math;
-
 public class GreatCircle {
     public static void main(String[] args) {
         double x1 = Double.parseDouble(args[0]);
@@ -16,13 +14,14 @@ public class GreatCircle {
 
         double r = 6371.0;
 
-        double a = Math.sin((x2_rad - x1_rad) / 2) * Math.sin((x2_rad - x1_rad) / 2);
-        double b = Math.cos(x1_rad) * Math.cos(x2_rad) * Math.sin((y2_rad - y1_rad) / 2) * Math.sin((y2_rad - y1_rad) / 2);
+        double a = Math.sin((x2_rad - x1_rad)/2) * Math.sin((x2_rad - x1_rad)/2);
+        double b = Math.cos(x1_rad) * Math.cos(x2_rad) * Math.sin((y2_rad - y1_rad)/2) * Math.sin((y2_rad - y1_rad)/2);
 
-        double c = Math.asin(Math.sqrt(a + b));
+        double c = Math.asin(Math.sqrt(a+b));
 
-        double distance = 2 * r * c;
+        double distance = 2*r*c;
 
         System.out.println(distance + " kilometers");
-    }    
-}   
+
+    }
+}
