@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="io">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Week4/io.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
