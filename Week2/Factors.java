@@ -1,5 +1,3 @@
-package Week2;
-
 public class Factors {
     //Steps to debug program
     /*

@@ -1,5 +1,3 @@
-package Week2;
-
 public class TwoSort {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);

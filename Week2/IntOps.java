@@ -1,5 +1,3 @@
-package Week2;
-
 public class IntOps {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);

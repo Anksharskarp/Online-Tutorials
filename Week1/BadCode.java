@@ -1,5 +1,3 @@
-package Week1;
-
 public class BadCode {
     public static void main(String[] args) {
         //Types of variables involved in datatype

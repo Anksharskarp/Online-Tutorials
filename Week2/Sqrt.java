@@ -1,5 +1,3 @@
-package Week2;
-
 public class Sqrt {
     public static void main(String[] args) {
         //Error tolerance: 15 places

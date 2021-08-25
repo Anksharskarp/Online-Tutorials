@@ -1,5 +1,3 @@
-package Week2;
-
 public class PQfor {
     public static void main(String[] args) {
         int f = 0, g = 1;

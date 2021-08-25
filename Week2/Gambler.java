@@ -1,5 +1,3 @@
-package Week2;
-
 public class Gambler {
     //Simulates 'Gambler's ruin' problem.
     public static void main(String[] args) {

@@ -1,5 +1,3 @@
-package Week2;
-
 public class PQif {
     //Don't forget the else clauses!
     //Be extra careful if you don't 
