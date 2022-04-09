@@ -63,6 +63,6 @@ public class ColorHSB {
                 cbest = name;
             }
         }
-        StdOut.println(cbest + " " + bestColor.toString());
+        StdOut.println(cbest + " " + bestColor);
     }
 }
