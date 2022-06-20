@@ -9,3 +9,4 @@ This repository will include all of my work and personal projects that is relate
 - Introduction to Algorithms, Third Edition (Cormen, Leiserson, Rivest, and Stein)
 - Algorithms, Fourth Edition (Sedgewick and Wayne)
 - Guide to Competitive Programming (Laaksonen)
+- Competitive Programming 4: Parts 1 & 2 (Halim, Halim, and Effendy)
