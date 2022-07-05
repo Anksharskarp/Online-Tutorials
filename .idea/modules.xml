@@ -3,9 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithms-Java-4th-Edition/Algorithms-Java-4th-Edition.iml" filepath="$PROJECT_DIR$/Algorithms-Java-4th-Edition/Algorithms-Java-4th-Edition.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Competitive-Programming-4/Competitive-Programming-4.iml" filepath="$PROJECT_DIR$/Competitive-Programming-4/Competitive-Programming-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Computer-Science-Programming-with-a-Purpose/Computer-Science-Programming-with-a-Purpose.iml" filepath="$PROJECT_DIR$/Computer-Science-Programming-with-a-Purpose/Computer-Science-Programming-with-a-Purpose.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Laaksonen-Book/Laaksonen-Book.iml" filepath="$PROJECT_DIR$/Laaksonen-Book/Laaksonen-Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Halim-Competitive-Programming/Halim-Competitive-Programming.iml" filepath="$PROJECT_DIR$/Halim-Competitive-Programming/Halim-Competitive-Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sams-Java-8-Book/Sams-Java-8-Book.iml" filepath="$PROJECT_DIR$/Sams-Java-8-Book/Sams-Java-8-Book.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
